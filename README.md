@@ -60,8 +60,10 @@ Promover o crescimento de minha carreira profissional, aprender o mais rápido p
     
 
 # 👨‍💼Experiência
+#### GFT 
+* Período: `09-2021` até atualmente
 #### GLOBALTEC SA
-* Período: `09-2010` até o momento
+* Período: `09-2010` a `09-2021`
 
 #### VMSET SISTEMAS DE INFORMÁTICA LTDA ME
 * Período: `05-2010` a `08-2010`
