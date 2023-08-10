@@ -120,13 +120,13 @@ Busco ativamente impulsionar o desenvolvimento da minha carreira, adotando uma a
 </details>
 
 # 🏷️Cursos
-[Formação C# Programming](/cursos/formacao_csharp_programming.md)
-[Front-end](/cursos/formacao_front_end.md)
-[Formação: React JS](/cursos/formacao_react_js.md)
-[Formação: Node.JS](/cursos/formacao_node_js.md)
-[Formação: SQL com Microsoft SQL Server 2017](/cursos/formacao_sql_server_2017.md)
-[Formação Power BI](/cursos/formacao_power_bi.md)
-[Git e GitHub: Controlando e compartilhando seu código](/cursos/git_github_controle.md)
-[Git e GitHub: Estratégias de ramificação, Conflitos e Pull Requests](/cursos/git_github_estrategias.md)
-[Introdução ao Entity Framework Core](/cursos/introducao_entityframeworkcore.md)
-[Dominando os Testes de Software](/cursos/dominando_teste_sowftware.md)
+* [Formação C# Programming](/cursos/formacao_csharp_programming.md)
+* [Front-end](/cursos/formacao_front_end.md)
+* [Formação: React JS](/cursos/formacao_react_js.md)
+* [Formação: Node.JS](/cursos/formacao_node_js.md)
+* [Formação: SQL com Microsoft SQL Server 2017](/cursos/formacao_sql_server_2017.md)
+* [Formação Power BI](/cursos/formacao_power_bi.md)
+* [Git e GitHub: Controlando e compartilhando seu código](/cursos/git_github_controle.md)
+* [Git e GitHub: Estratégias de ramificação, Conflitos e Pull Requests](/cursos/git_github_estrategias.md)
+* [Introdução ao Entity Framework Core](/cursos/introducao_entityframeworkcore.md)
+* [Dominando os Testes de Software](/cursos/dominando_teste_sowftware.md)
