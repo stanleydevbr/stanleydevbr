@@ -75,14 +75,19 @@ Busco ativamente impulsionar o desenvolvimento da minha carreira, adotando uma a
     <summary><b>AWS Certified Cloud Practitioner - Certified 2022</b></summary>
         <table>
             <tr><td><a href="https://www.credly.com/badges/4c77d0a9-7df1-4fd0-b962-904c1db3d287?source=linked_in_profile">Verificar</a></td></tr>
-            <tr><td><img src="imagens/MCSD.png" width = "250px"></td></tr>
+            <tr>
+                <td>
+                    <img src="/certificacao/badges/aws_cloud_practitioner.png" width="200" height="200" />
+                </td>
+            </tr>
         </table>       
 </details>
+
 <details>
     <summary><b>MCSD - App Builder - Certified 2020</b></summary>
         <table>
             <tr><td><a href="https://www.youracclaim.com/badges/9ea715fb-7ca6-41ad-aa98-588a4133c1a5/linked_in_profile">Verificar</a></td></tr>
-            <tr><td><img src="imagens/MCSD.png" width = "250px"></td></tr>
+            <tr><td><img src="/certificacao/badges/MCSD-App_Builder.png" width="200" height="200"></td></tr>
         </table>       
 </details>
 
@@ -90,7 +95,7 @@ Busco ativamente impulsionar o desenvolvimento da minha carreira, adotando uma a
     <summary><b>MCSA – App Web – Certified 2019</b></summary>
         <table>
             <tr><td><a href="https://www.youracclaim.com/badges/a04d7fa8-4da3-41b7-97f9-48379b81339d/linked_in_profile">Verificar</a></td></tr>
-            <tr><td><img src="imagens/MCSA-Web.png" width = "250px"></td></tr>
+            <tr><td><img src="/certificacao/badges/MCSA-Web-Applications-2019.png" width="200" height="200"></td></tr>
         </table>       
 </details>
 
@@ -98,7 +103,7 @@ Busco ativamente impulsionar o desenvolvimento da minha carreira, adotando uma a
     <summary><b>Exam 762: Developing SQL Databases</b></summary>
         <table>
             <tr><td><a href="https://www.youracclaim.com/badges/3f3634c0-d0de-4bd7-a092-10fed5fa77ef?source=linked_in_profile">Verificar</a></td></tr>
-            <tr><td><img src="imagens/70-762.png" width = "250px"></td></tr>
+            <tr><td><img src="/certificacao/badges/Developing_SQL_Databases-01.png" width="200" height="200"></td></tr>
         </table>       
 </details>
 
@@ -106,15 +111,17 @@ Busco ativamente impulsionar o desenvolvimento da minha carreira, adotando uma a
     <summary><b>Exam 487: Developing Microsoft Azure and Web Services</b></summary>
         <table>
             <tr><td><a href="https://www.youracclaim.com/badges/fc708740-03c3-4c77-8f65-daf7d873e816">Verificar</a></td></tr>
-            <tr><td><img src="/certificacao/badges/aws_cloud_practitioner.png" width = "250px"></td></tr>
-        </table>       
+            <tr><td>
+                <img src="/certificacao/badges/Developing_Microsoft_Azure_and_Web_Services-01.png" width="200" height="200">
+            </td></tr>
+        </table> 
 </details>
 
 <details>
     <summary><b>Exam 486: Developing ASP.NET MVC Web Applications</b></summary>
         <table>
             <tr><td><a href="https://www.youracclaim.com/badges/3080933a-2efa-4324-aa62-b3514d48a706">Verificar</a> </td></tr>
-            <tr><td><img src="imagens/70-486.png" width = "250px"></td></tr>
+            <tr><td><img src="/certificacao/badges/Developing_ASP.NET_MVC_Web_Applications-01.png" width="200" height="200"></td></tr>
         </table>       
 </details>
 
@@ -122,7 +129,7 @@ Busco ativamente impulsionar o desenvolvimento da minha carreira, adotando uma a
     <summary><b>Exam 483: Programming in C#</b></summary>
         <table>
             <tr><td><a href="https://www.youracclaim.com/badges/12f84070-acee-482d-8cd2-a41d742243e3">Verificar</a></td></tr>
-            <tr><td><img src="imagens/70-483.png" width = "250px"></td></tr>
+            <tr><td><img src="/certificacao/badges/Programming_in_C_23-01.png" width="200" height="200"></td></tr>
         </table>       
 </details>
 
