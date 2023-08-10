@@ -144,6 +144,12 @@ Busco ativamente impulsionar o desenvolvimento da minha carreira, adotando uma a
 * [Git e GitHub: Estratégias de ramificação, Conflitos e Pull Requests](/cursos/git_github_estrategias.md)
 * [Introdução ao Entity Framework Core](/cursos/introducao_entityframeworkcore.md)
 * [Dominando os Testes de Software](/cursos/dominando_teste_sowftware.md)
+* [ASP.NET Core Enterprise Application](/cursos/asp_net_core_enterprise_applications.md)
+* [Dominando o Entity Framework Core](/cursos/dominando_entityframeworkcore.md)
+* [Fundamentos de Criptografia e Hashing](/cursos/fundamentos_criptografia_hashing.md)
+* [Fundamentos do IdentityServer4](/cursos/fundamentos_identityserver4.md)
+* [Construindo Aplicação Web com Angular (4, 5 e 6)](/cursos/construindo_aplicacao_web_angular.md)
+* [JavaScript Funcional e Reativo](/cursos/javascript_funcional_reativo.md)
 
 # :books: Estudos
 * [Clean Code](/estudos/clean_code.md)
