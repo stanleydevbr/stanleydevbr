@@ -133,7 +133,7 @@ Busco ativamente impulsionar o desenvolvimento da minha carreira, adotando uma a
         </table>       
 </details>
 
-# 🏷️Cursos
+# :book: Cursos
 * [Formação C# Programming](/cursos/formacao_csharp_programming.md)
 * [Front-end](/cursos/formacao_front_end.md)
 * [Formação: React JS](/cursos/formacao_react_js.md)
@@ -144,3 +144,7 @@ Busco ativamente impulsionar o desenvolvimento da minha carreira, adotando uma a
 * [Git e GitHub: Estratégias de ramificação, Conflitos e Pull Requests](/cursos/git_github_estrategias.md)
 * [Introdução ao Entity Framework Core](/cursos/introducao_entityframeworkcore.md)
 * [Dominando os Testes de Software](/cursos/dominando_teste_sowftware.md)
+
+# :books: Estudos
+* [Clean Code](/estudos/clean_code.md)
+* [SOLID](/estudos/solid.md)
