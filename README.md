@@ -20,7 +20,7 @@ Busco ativamente impulsionar o desenvolvimento da minha carreira, adotando uma a
 #### FACULDADE SUL-AMERICANA - CONCLUSÃO 02/2012
 * No âmbito do meu projeto de conclusão de curso, concebemos um sistema de controle de acesso de indivíduos fundamentado na autenticação biométrica. Nesse contexto, optamos por empregar a linguagem de programação C# para o desenvolvimento e recorremos ao banco de dados SQL Server para fins de armazenamento e gestão dos dados. Essa experiência solidificou minha compreensão tanto das aplicações práticas da programação em C# quanto do manuseio eficiente de sistemas de banco de dados.
 
-# 👨‍💻Principais Habilidades 
+# :man_juggling: Principais Habilidades 
 * Com mais de uma década de atuação no mercado, possuo uma vasta experiência como desenvolvedor, adquirindo proficiência em diversas práticas de programação. Minha jornada inclui uma sólida habilidade na análise detalhada e interpretação precisa de requisitos de software. Ao longo dos últimos 10 anos, tenho consistentemente aplicado meu conhecimento para criar soluções que atendam não apenas às expectativas, mas que também se alinhem às necessidades específicas dos projetos. Minha trajetória enriquecedora me permitiu não só aprimorar minhas habilidades técnicas, mas também a capacidade de comunicar efetivamente e colaborar em equipes multidisciplinares. Estou ansioso para continuar aplicando meu conhecimento e experiência para enfrentar novos desafios estimulantes.
 
     <img src="https://img.shields.io/badge/%20-OOP-green"/>
@@ -57,7 +57,7 @@ Busco ativamente impulsionar o desenvolvimento da minha carreira, adotando uma a
     <img src="https://img.shields.io/badge/React-JS-orange"/>
     
 
-# 👨‍💼Experiência
+# :man_factory_worker: Experiências
 #### GFT - Technologies
 * Período:   <img src="https://img.shields.io/badge/09-2021-green" /> até o momento
 
@@ -70,7 +70,7 @@ Busco ativamente impulsionar o desenvolvimento da minha carreira, adotando uma a
 # Especializações
 * Engenharia de Software - Incompleto
 
-# ⭐Certificações
+# :zap: Certificações
 <details>
     <summary><b>AWS Certified Cloud Practitioner - Certified 2022</b></summary>
         <table>
