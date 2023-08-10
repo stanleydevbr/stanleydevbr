@@ -10,7 +10,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:stanleydiaspaulo@gmail.com)](mailto:stanleydiaspaulo@gmail.com)
 
 # Perfil
-Olá, sou bacharel em Sistemas de Informação, desenvolvedor e apaixonado por tecnologia, dedicado ao constante crescimento de meu conhecimento. Minha curiosidade insaciável impulsiona minha busca pelas últimas inovações e tendências de mercado, mantendo-me atualizado como entusiasta e profissiona
+Olá, sou bacharel em Sistemas de Informação, desenvolvedor e apaixonado por tecnologia, dedicado ao constante crescimento de meu conhecimento. Minha curiosidade insaciável impulsiona minha busca pelas últimas inovações e tendências de mercado, mantendo-me atualizado como entusiasta e profissional
 
 # Objetivo
 Busco ativamente impulsionar o desenvolvimento da minha carreira, adotando uma abordagem diligente para absorver rapidamente todas as responsabilidades inerentes ao meu cargo, visando a entrega eficaz de resultados tangíveis.
