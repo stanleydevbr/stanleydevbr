@@ -7,7 +7,7 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/stanleydiaspaulo/)](https://www.linkedin.com/in/stanleydiaspaulo/)
 [![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5562991341448!)](https://api.whatsapp.com/send?phone=5562991341448!)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:stanleydiaspaulo@gmail.com)](mailto:stanleydiaspaulo@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:stanleydevbr@gmail.com)](mailto:stanleydevbr@gmail.com)
 
 # Perfil
 Olá, sou bacharel em Sistemas de Informação, desenvolvedor e apaixonado por tecnologia, dedicado ao constante crescimento de meu conhecimento. Minha curiosidade insaciável impulsiona minha busca pelas últimas inovações e tendências de mercado, mantendo-me atualizado como entusiasta e profissional
