@@ -72,6 +72,13 @@ Busco ativamente impulsionar o desenvolvimento da minha carreira, adotando uma a
 
 # ⭐Certificações
 <details>
+    <summary><b>AWS Certified Cloud Practitioner - Certified 2022</b></summary>
+        <table>
+            <tr><td><a href="https://www.credly.com/badges/4c77d0a9-7df1-4fd0-b962-904c1db3d287?source=linked_in_profile">Verificar</a></td></tr>
+            <tr><td><img src="imagens/MCSD.png" width = "250px"></td></tr>
+        </table>       
+</details>
+<details>
     <summary><b>MCSD - App Builder - Certified 2020</b></summary>
         <table>
             <tr><td><a href="https://www.youracclaim.com/badges/9ea715fb-7ca6-41ad-aa98-588a4133c1a5/linked_in_profile">Verificar</a></td></tr>
@@ -99,7 +106,7 @@ Busco ativamente impulsionar o desenvolvimento da minha carreira, adotando uma a
     <summary><b>Exam 487: Developing Microsoft Azure and Web Services</b></summary>
         <table>
             <tr><td><a href="https://www.youracclaim.com/badges/fc708740-03c3-4c77-8f65-daf7d873e816">Verificar</a></td></tr>
-            <tr><td><img src="imagens/70-487.png" width = "250px"></td></tr>
+            <tr><td><img src="/certificacao/badges/aws_cloud_practitioner.png" width = "250px"></td></tr>
         </table>       
 </details>
 
