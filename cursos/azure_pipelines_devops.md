@@ -1,0 +1,68 @@
+# Azure Pipelines - CI/CD, Docker e Kubernetes no Azure DevOps
+Intrutor: **Higor Barbosa** - Solution Architecture | Cloud Specialist | SRE | Developer
+Sobre o Curso: Integração e Entrega Contínua com Azure DevOps usando Docker, Kubernetes, Infraestrutura como Código (IaC) e Database
+## Seção 1: Introdução a DevOps e Azure DevOps
+* Introdução ao Modulo
+* DevOps Básico
+* Azure DevOps no Ciclo de Desenvolvimento
+* Azure DevOps - Serviços e Principais Recursos
+* Precificação do Azure DevOps e Azure Pipeline
+* [Hands-On] Explorando o Azure
+* [Hands-On] Usuários, Dashboard e Wiki
+* [Hands-On] Azure Boards
+* [Hands-On] Azure Repos
+* [Hands-On] Azure Test Plan
+* [Hands-On] Azure Artifacts
+* [Hands-On] Extensões do Market Place
+* Azure DevOps Server
+* Teste 1: Quiz do Módulo
+* Resumo do Módulo
+
+## Seção 2: Azure Pipelines com Classic Editor
+* Introdução ao Módulo
+* Build Pipelines
+* Workflow do Pipelines e Integração Continua
+* Conceitos do Pipelines usando Classic Editor
+* Ativar Execução de Pipeline usando Microsoft Self-Hosted Agent
+* [Hands-On] Pipeline Básico
+* [Hands-On] Agent Jobs
+* [Hands-On] Agentless Jobs
+* [Hands-On] Pipelines no Dashboard
+* Variáveis, Grupos de Variáveis e Grupo de Tarefas
+* [Hands-On] Variáveis e Grupo de Variáveis
+* [Hands-On] Grupo de Tarefas
+* Azure Key Vault
+* [Hands-On] Utilizando Segredos do Azure Key Vault no Pipeline
+* Triggers
+* [Hands-On] Integração Continua com Classic Editor
+* [Hands-On] Triggers - Agendamento de Builds com Editor Clássico
+* [Hands-On] Build iniciado a partir de outro build
+* [Hands-On] Propriedades do Build
+* Azure App Service
+* [Hands-On] Deploy usando Build Pipelines
+* Teste 2: Quiz do Módulo
+* Resumo do Módulo
+## Seção 3: Azure Pipelines com YAML
+* Introdução ao Módulo
+* YAML
+* Conceitos do Pipelines usando YAML
+* [Hands-On] YAML Básico - Triggers, Pool e Steps
+* [Hands-On] Triggers - Agendamento de Builds
+* [Hands-On] YAML - Jobs, Dependências e Condições
+* [Hands-On] YAML Stages
+* [Hands-On] Usando Tasks e Variaveis
+* [Hands-On] Templates YAML
+* [Hands-On] YAML Release Pipelines
+* [Hands-On] YAML no Visual Studio Code
+* Teste 3: Quiz do Módulo
+* Resumo do Módulo
+## Seção 4: Agent Jobs no Azure Pipelines
+## Seção 5: Releases - Básico
+## Seção 6: Releases - Deployment Group
+## Seção 7: Releases - Deployment Patterns
+## Seção 8: Qualidade no CI/CD - SonarQube e Testes Unitários
+## Seção 9: Container no Azure Pipeline
+## Seção 10: Infraestrutura como Código no Azure Pipeline
+## Seção 11: Entrega Contínua do Banco de Dados no Azure
+## Seção 12: Montando Ambiente de Laboratório
+## Seção 13: Finalização do Treinamento

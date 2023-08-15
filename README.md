@@ -70,7 +70,7 @@ Busco ativamente impulsionar o desenvolvimento da minha carreira, adotando uma a
 # Especializações
 * Engenharia de Software - Incompleto
 
-# :zap: Certificações
+# :medal_sports: Certificações
 <details>
     <summary><b>AWS Certified Cloud Practitioner - Certified 2022</b></summary>
         <table>
