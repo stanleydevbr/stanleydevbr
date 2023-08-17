@@ -42,6 +42,7 @@ Sobre o Curso: Integração e Entrega Contínua com Azure DevOps usando Docker, 
 * [Hands-On] Deploy usando Build Pipelines
 * Teste 2: Quiz do Módulo
 * Resumo do Módulo
+  
 ## Seção 3: Azure Pipelines com YAML
 * Introdução ao Módulo
 * YAML
@@ -56,8 +57,40 @@ Sobre o Curso: Integração e Entrega Contínua com Azure DevOps usando Docker, 
 * [Hands-On] YAML no Visual Studio Code
 * Teste 3: Quiz do Módulo
 * Resumo do Módulo
+  
 ## Seção 4: Agent Jobs no Azure Pipelines
+* Introdução ao Módulo
+* Agents no Azure Pipelines
+* [Hands-On] Instalando Agente no Windows Server
+* [Hands-On] Build com Agente Windows Self-Hosted
+* [Hands-On] Instalando e Build com Agente no MacOS
+* [Hands-On] Agentes Self-Hosted com YAML
+* Teste 4: Quiz do Módulo
+* Resumo do Módulo
+  
 ## Seção 5: Releases - Básico
+* Introdução ao Módulo
+* Releases
+* Princípios do Continuous Delivery
+  * Processo Confiável Repetível
+  * Automatize Tudo
+  * Repositório em Tudo
+  * Mais Complicado, Primeiro!
+  * Qualidade Interna
+  * Concluído = Liberado
+  * Todos são Responsáveis
+  * Melhoria Contínua
+* Etapas para Entrega do nosso Software no Azure Pipelines Releases
+* [Hands-On] Deploy do Release Pipeline com Azure App Service
+* [Hands-On] Continuous Deployment Trigger
+* [Hands-On] Agendamento de Deploy
+* [Hands-On] Deploy em Multiplos Stages
+* Aprovações Pré e Post Deployment
+* [Hands-On] Aprovações no Release Pipelines
+* Gates no Release Pipelines
+* [Hands-On] Gates
+* Testes 5: Quiz do Módulo
+* Resumo do Módulo
 ## Seção 6: Releases - Deployment Group
 ## Seção 7: Releases - Deployment Patterns
 ## Seção 8: Qualidade no CI/CD - SonarQube e Testes Unitários
