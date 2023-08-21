@@ -132,6 +132,7 @@ Sobre o Curso: Integração e Entrega Contínua com Azure DevOps usando Docker, 
 * Resumo do Módulo
    
 ## Seção 8: Qualidade no CI/CD - SonarQube e Testes Unitários
+
 ## Seção 9: Container no Azure Pipeline
 ## Seção 10: Infraestrutura como Código no Azure Pipeline
 ## Seção 11: Entrega Contínua do Banco de Dados no Azure
