@@ -91,8 +91,46 @@ Sobre o Curso: Integração e Entrega Contínua com Azure DevOps usando Docker, 
 * [Hands-On] Gates
 * Testes 5: Quiz do Módulo
 * Resumo do Módulo
+  
 ## Seção 6: Releases - Deployment Group
+* Introdução ao Módulo
+* Agentes em Deployment Groups
+* [Hands-On] Criando VM Windows Server no Azure
+* [Hands-On] Configurando Deployment Group e associando a VM
+* [Hands-On] Deploy utilizando IIS
+* Teste 6: Quiz do Módulo
+* Resumo do Módulo
+  
 ## Seção 7: Releases - Deployment Patterns
+* Introdução ao Módulo
+* Deployment Patterns
+* Estratégia de Implantação - Big Bang
+* [Hands-On] Big Bang - Implantação via FTP Server
+* Estratégia de Implantação Ramped
+* Azure Load Balancer
+* [Hands-On] Ramped - Criando VNET, NSG, Avalabity Set Load...
+* [Hands-On] Ramped - Criando Maquinas Virtuais para Load Balancer
+* [Hands-On] Ramped - Criando VMs Load Balancers
+* [Hands-On] Ramped - Configurando IIS nas VMs Load Balancers
+* [Hands-On] Ramped - Deployment Groups nas VMs com Load Balancers
+* [Hands-On] Ramped - Criando a API
+* [Hands-On] Ramped - Build e Release da Aplicação
+* Estratégia de Implantação - Blue/Green
+* Deployment Slots
+* [Hands-On] Blue/Green - Criando Slots no App Services
+* [Hands-On] Blue/Green - Build e Release da Aplicação
+* Estrategia de Deploy - Canary
+* [Hands-On] Canary - Criando App Service Slots
+* [Hands-On] Canary - Build e Release Aplicação
+* Estrategia de Deploy - A/B Testing
+* Azure Traffic Manager
+* [Hands-On] A/B Testing - Criando Azure App Services
+* [Hands-On] A/B Testing - Criando Azure Traffic Manager
+* [Hands-On] A/B Testing - Build e Release da Aplicação
+* Comparativo dos Deployment Patterns
+* Teste 7: Quiz do Módulo
+* Resumo do Módulo
+   
 ## Seção 8: Qualidade no CI/CD - SonarQube e Testes Unitários
 ## Seção 9: Container no Azure Pipeline
 ## Seção 10: Infraestrutura como Código no Azure Pipeline

@@ -58,13 +58,13 @@ Busco ativamente impulsionar o desenvolvimento da minha carreira, adotando uma a
     
 
 # :man_factory_worker: Experiências
-#### GFT - Technologies
+#### [GFT - Technologies](/empregadores/gft.md)
 * Período:   <img src="https://img.shields.io/badge/09-2021-green" /> até o momento
 
-#### GLOBALTEC SA
+#### [GLOBALTEC SA](/empregadores/globaltec.md)
 * Período: <img src="https://img.shields.io/badge/09-2010-green"/> a <img src="https://img.shields.io/badge/09-2021-red" />
 
-#### VMSET SISTEMAS DE INFORMÁTICA LTDA ME
+#### [VMSET SISTEMAS DE INFORMÁTICA LTDA ME](/empregadores/vm7.md)
 * Período: <img src="https://img.shields.io/badge/05-2010-green"/> a <img src="https://img.shields.io/badge/08-2010-red"/>
 
 # Especializações
@@ -150,6 +150,7 @@ Busco ativamente impulsionar o desenvolvimento da minha carreira, adotando uma a
 * [Fundamentos do IdentityServer4](/cursos/fundamentos_identityserver4.md)
 * [Construindo Aplicação Web com Angular (4, 5 e 6)](/cursos/construindo_aplicacao_web_angular.md)
 * [JavaScript Funcional e Reativo](/cursos/javascript_funcional_reativo.md)
+* [Azure Pipelines - CI/CD, Docker e Kubernetes no Azure DevOps](/cursos/azure_pipelines_devops.md)
 
 # :books: Estudos
 * [Clean Code](/estudos/clean_code.md)
