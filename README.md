@@ -154,3 +154,4 @@ Busco ativamente impulsionar o desenvolvimento da minha carreira, adotando uma a
 # :books: Estudos
 * [Clean Code](/estudos/clean_code.md)
 * [SOLID](/estudos/solid.md)
+* [Developer C#](/estudos/developer_c#.md)
