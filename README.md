@@ -1,6 +1,5 @@
 # Dados Pessoais
 ## Stanley Dias Paulo 
-* :triangular_flag_on_post: Rua J60 Qd.50 Lt.26, Mansões Paraíso, Aparecida de Goiânia - GO
 * :iphone: `(62) 99134-1448`
 * :email: `stanleydevbr@gmail.com`
 * :family: `Esposa` e `Filho`
