@@ -54,8 +54,10 @@ Busco ativamente impulsionar o desenvolvimento da minha carreira, adotando uma a
     <img src="https://img.shields.io/badge/ASP.NET-Core-blue"/>
     <img src="https://img.shields.io/badge/Angular-7%2B-red"/>
     <img src="https://img.shields.io/badge/React-JS-orange"/>
-    
 
+* Cloud
+    <img src="https://img.shields.io/badge/AWS-Lambda-orange"/> <img src="https://img.shields.io/badge/AWS-S3-orange"/>
+    <img src="https://img.shields.io/badge/Azure-DevOps-blue"/>    
 # :man_factory_worker: Experiências
 #### [GFT - Technologies](/empregadores/gft.md)
 * Período:   <img src="https://img.shields.io/badge/09-2021-green" /> até o momento

@@ -132,9 +132,97 @@ Sobre o Curso: Integração e Entrega Contínua com Azure DevOps usando Docker, 
 * Resumo do Módulo
    
 ## Seção 8: Qualidade no CI/CD - SonarQube e Testes Unitários
-
+* Introdução ao Módulo
+* Testes de Unidade
+* [Hands-On] Criando Projeto com Teste de Unidade
+* [Hands-On] Build Pipeline - Validando Teste de Unidade
+* Testes de Integração e Testes E2E
+* [Hands-On] Criando Projeto com Testes de Integração (xUnit)
+* [Hands-On] Build Pipeline Validando Teste de Integração
+* SonarQube e SonarCloud
+* [Hands-On] Verificação da Qualidade com SonarCloud
+* Teste 8: Quiz do Módulo
+* Resumo do Módulo
+  
 ## Seção 9: Container no Azure Pipeline
+* Introdução ao Módulo
+* Docker Básico
+* Principais Comandos Docker
+    ```bash
+      > docker version
+      > docker images
+      > docker image list
+      > docker serch (parametro)
+      > doker image pull (imagem)
+      > docker run (nome da image)
+      > docker run -it -p 8080:80 ngnix
+      > docker ps
+      > docker ps -a
+      > docker stats (id ou alias)
+      > docker inspect (id ou alias)
+      > docker rmi (imagem)
+      > docker exec (id ou nome)
+      > docker start (id)
+      > docker stop (id)
+    ```
+  * Comandos utilizados no curso:
+    ```powershell
+    > az acr login --name mvcdocker
+    > docker pull mvcdocker.azurecr.io/imageacr:latest
+    > docker run -d -p 2861:80 --name acrpipelines -e PORT=80 mvcdocker.azurecr.io/imageacr:latest
+    > docker image list
+    > docker container list
+    > docker container rm ID container
+    > docker stop ID container
+    ```
+
+* Docker no Azure e Azure DevOps
+* [Hands-On] Aplicativo .NET com Container Docker
+* Azure Container Registry (ACR)
+* [Hands-On] ACR - Hospedando Docker Image no Azure
+* [Hands-On] ACR - Usando a Imagem localmente
+* [Hands-On] ACR - Publicando Imagem no Azure App Service for Containers
+* [Hands-On] - Release App Service for Containers
+* Azure Container Instances (ACI)
+* [Hands-On] Criando Instancias com ACI
+* Kubernets Básico
+* Kubernetes, onde deve usar?
+* Componentes do Kubernetes
+* Azure Kubernetes Services (AKS)
+* [Hands-On] AKS - Projeto API
+* [Hands-On] AKS - Criando Serviços
+* [Hands-On] AKS - Build YAML
+* [Hands-On] Docker Agent Job - Agentes em Container Windows
+* Teste 9: Quiz do Módulo
+* Resumo do Módulo
+  
 ## Seção 10: Infraestrutura como Código no Azure Pipeline
+* Introdução ao Módulo
+* Infraestrutura as a Code (IaC)
+* ARM - Azure Resource Manager
+* [Hands-On] ARM - Template ARM pelo Portal
+* [Hands-On] ARM - Gerando Template
+* [Hands-On] ARM - Parâmetros no Release Pipeline
+* Terraform
+* [Hands-On] Terraform - Criando Storage Account
+* [Hands-On] Terraform - Release Pipeline
+* [Hands-On] Terraform - Release Pipeline com App Service Storage
+* Teste 10: Quiz do Módulo
+* Resumo do Módulo
+  
 ## Seção 11: Entrega Contínua do Banco de Dados no Azure
+* Introdução ao Módulo
+* Importância do C.I/C.D para o banco de dados
+* Flyway
+* [Hands-On] Flyway - Criando Azure SQL Database e Instalando Locamente
+* [Hands-On] Flyway - Migração do banco de dados Locamente
+* [Hands-On] Flyway - Migração do Banco de dAdos no Azure Pipelines
+* SQL Server DACPAC
+* [Hands-On] DACPAC - Criando projeto MVC .NET Core
+* [Hands-On] DACPAC - Criando projeto Database
+* [Hands-On] DACPAC - Publicando no Azure
+* [Hands-On] DACPAC - Build e Release
+* Teste 11: Quiz do Módulo
+* Resumo do Módulo
 ## Seção 12: Montando Ambiente de Laboratório
 ## Seção 13: Finalização do Treinamento
