@@ -80,14 +80,40 @@
     
   ```
 * Implementando um produtor e um consumidor
+
 * Instalando Tools do Apache Avro
+```csharp
+  dotnet tool install --global Apache.Avro.Tools
+  dotnet add Produtor package Confluent.SchemaRegistry.Serdes.Avro
+  dotnet add Consumidor package Confluent.SchemaRegistry.Serdes.Avro
+```
 * Criando um Schema
+![Alt text](imgs/image.png)
+```csharp
+  avrogen -s ..\Avros\Curso.avsc
+
+```
+
 * Implementando Schema Registry
 * Teste os seus conhecimentos
 
 ## Implementação no DevStore
+* Clonar o projeto
+* Executar o projeto no Docker
+* Executar projeto no Visual Studio
+* Implementar produtor e consumidor no devStore
+* Corrigir os problemas de migração
+* Testar o fluxo do devStore
+
 ## Kafka Avançado
 ## Encerramento
+
+## Links
+https://kafka.apache.org/
+https://docs.confluent.io/platform/current/platform-quickstart.html
+https://avro.apache.org
+
+
 
 
 

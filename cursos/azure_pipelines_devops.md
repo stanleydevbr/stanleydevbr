@@ -225,4 +225,9 @@ Sobre o Curso: Integração e Entrega Contínua com Azure DevOps usando Docker, 
 * Teste 11: Quiz do Módulo
 * Resumo do Módulo
 ## Seção 12: Montando Ambiente de Laboratório
-## Seção 13: Finalização do Treinamento
+* Ambiente de Laboratório
+* [Tutorial] Instalando GIT
+* [Tutorial] Instalando Visual Studio 2019
+* [Tutorial] Instalando Visual Studio Code
+* [Tutorial] Instalando DOcker no Windows
+* [Tutorial] Instalação do Azure CLI
