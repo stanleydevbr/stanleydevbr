@@ -106,6 +106,40 @@
 * Testar o fluxo do devStore
 
 ## Kafka Avançado
+* Criar um serializador/deserializador customizado
+```csharp
+internal class SerializerDevBrStore<T>: ISerializer<T>
+{
+  public byte[] Serialize(T data, SerializationContext context){
+    var bytes = JsonSerializer.SerializerToUtf8Bytes(data);
+    using var memoryStream = new MemoryStream();
+    using var zipStream = new GZipStream(memoryStream, CompressionMode.Compress, true);
+    zipStream.Write(bytes, 0, bytes.Length);
+    zipStream.Close();
+    var buffer = memoryStream.ToArray();
+    return buffer;
+  }
+}
+
+internal class DeserializeDevBrStore<T>: IDeserializer<T>
+{
+  public T Deserialize(ReadOnlySpan<byte> data, bool isNull, SerializationContext context)
+  {
+    using var memoryStream = new MemoryStream(data.ToArray());
+    using var zip = new GZipStream(memoryStream, compressionMode.Decompress, true);
+
+    return JsonSerializer.Deserialize<T>(zip);
+  }
+}
+```
+* Producer Acknowledgements
+* Auto offset reset
+* Ordenação de mensagens no Kafka
+* Consumir mensagens do Kafka mais de uma fez
+* Idempotência
+* Trabalhar com transações
+* Headers e Tracing
+
 ## Encerramento
 
 ## Links

@@ -18,3 +18,5 @@
 
 ### Desenvolvimento de APIs:  
 * Realizei o desenvolvimento e integração de diversas APIs utilizando as tecnologias .NET Core 3.1, NET Core 6.0, MongoDb e SQL Server, juntamente com os frameworks Entity framework, Dapper, Automapper e FluentValidation.
+
+## Cliente Itaú:
