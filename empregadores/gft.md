@@ -20,3 +20,16 @@
 * Realizei o desenvolvimento e integração de diversas APIs utilizando as tecnologias .NET Core 3.1, NET Core 6.0, MongoDb e SQL Server, juntamente com os frameworks Entity framework, Dapper, Automapper e FluentValidation.
 
 ## Cliente Itaú:
+* Construção de componentes .NET, que permite a consulta de contas internas e externas facilitando assim o processamento deste recurso pode ser reaproveitado em diversos cenários e projetos do cliente.
+* Participei do projeto de integração de workers com tópicos Kafka, funcionalidade na qual o worker deve executar em background escutando as mensagem a serem consumida do tópico especificado no contexto do projeto e ao processar a mensagem grava-lás na base de dados não relacional AWS DynamoDb. 
+
+
+**Tecnologias envolvidas:**
+
+<img src="https://img.shields.io/badge/Microsoft .Net Core 6.0-blue"/>
+<img src="https://img.shields.io/badge/AWS-DynamoDB-orange"/>
+<img src="https://img.shields.io/badge/AWS-Secret Manager-orange"/>
+<img src="https://img.shields.io/badge/Kafka-Purple"/>
+<img src="https://img.shields.io/badge/Terraform-gray"/>
+<img src="https://img.shields.io/badge/GitHub-gray"/>
+<img src="https://img.shields.io/badge/Stryker-gree"/>
