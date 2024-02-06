@@ -94,3 +94,48 @@ crie uma cheat-sheet para os principais comandos GIT
 crie uma cheat-sheet para os principais comandos CSS
 crie uma cheat-sheet para os principais comandos .NET Core
 ```
+## DIO - Geração de conteúdo
+Checklist de para gerar artigos de qualidade: 
+> Definir o assunto
+> Titulo chamativo: headline
+> Imagem de capa chamativa
+> Blocos do artigo
+> Postar o artigo com um call to action
+
+Pergunta: 
+Crie 10 headlines para nomes de artigos sobre o assunto Angular - Diretivas
+
+Ferramentas: 
+lexica.art
+
+## Prompts ricos para gerar artigos: 
+### Assunto
+Angular - Diretivas
+### Titulo
+Diretivas estruturais versus diretivas de atributo: Qual usar no Angular?
+## Capa: 
+Feito com Lexica.Art e Power Point
+
+## Blocos
+- O que são diretivas no Angular
+- O que são diretivas estruturais
+    - Cite exemplos com código de diretivas estruturais
+- O que são diretivas atributos
+    - Cite exemplos com código de diretivas atributos
+- Faça um call to action para as minhas redes sócias
+- Coloque 3 hashtags que façam sentido        
+Ilustrações de capa: gerada pela lexica.art
+Conteúdo gerado por: ChatGPT e revisões humanas
+
+{REGRAS}
+> Comporte-se como um escritor de artigos tech front-end e escreva  o artigo atendendo as regras abiaxo:
+> No máximo 5 linhas por blocos de explicação
+> Me explique de maneira informal, como se eu fosse uma criança de 10 anos
+> Os blocos que serão criados estão abaixo:
+    - O que são diretivas no Angular
+    - O que são diretivas estruturais
+        - Cite exemplos com código de diretivas estruturais
+    - O que são diretivas atributos
+        - Cite exemplos com código de diretivas atributos
+    - Faça um call to action para as minhas redes sócias
+    - Coloque 3 hashtags que façam sentido        

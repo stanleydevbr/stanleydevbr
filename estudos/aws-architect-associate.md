@@ -1,0 +1,1 @@
+Certificação Certified Solutions Architect - Associate
