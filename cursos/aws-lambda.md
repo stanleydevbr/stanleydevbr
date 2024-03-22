@@ -14,3 +14,7 @@
 ## AWS Lambda #07 - Integrando com AWS Chatbot e Slack
 ## AWS Lambda #08 - Construindo APIs com suporte a paginação - API Geteway + Lambda + DynamoDB
 ## AWS Lambda #09 - Controle de tráfego entre diferentes versões com AWS Lambda
+
+
+## Links uteis:
+https://awspolicygen.s3.amazonaws.com/policygen.html
