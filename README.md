@@ -1,5 +1,5 @@
 # Dados Pessoais
-## Stanley Dias Paulo 
+## Stanley Dias
 * :iphone: `(62) 99134-1448`
 * :email: `stanleydevbr@gmail.com`
 * :family: `Esposa` e `Filho`
