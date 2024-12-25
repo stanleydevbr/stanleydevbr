@@ -19,3 +19,12 @@
 
 ### Python - Avançado
 
+
+
+https://github.com/MoienTajik/AspNetCore-Developer-Roadmap?tab=readme-ov-file
+
+https://github.com/MoienTajik/AspNetCore-Developer-Roadmap
+https://roadmap.sh/aspnet-core
+
+
+https://ddd-do-jeito-certo.online/
