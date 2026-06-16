@@ -1,63 +1,70 @@
-# Dados Pessoais
-## Stanley Dias
-* :iphone: `(62) 99134-1448`
-* :email: `stanleydevbr@gmail.com`
-* :family: `Esposa` e `Filho`
+# Stanley Dias
 
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/stanleydiaspaulo/)](https://www.linkedin.com/in/stanleydiaspaulo/)
-[![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5562991341448!)](https://api.whatsapp.com/send?phone=5562991341448!)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:stanleydevbr@gmail.com)](mailto:stanleydevbr@gmail.com)
 
 # Perfil
-Olá, sou bacharel em Sistemas de Informação, desenvolvedor e apaixonado por tecnologia, dedicado ao constante crescimento de meu conhecimento. Minha curiosidade insaciável impulsiona minha busca pelas últimas inovações e tendências de mercado, mantendo-me atualizado como entusiasta e profissional
+Desenvolvedor de software com mais de 10 anos de experiência, bacharel em Sistemas de Informação. Foco em arquitetura de software, boas práticas de desenvolvimento e entrega de soluções de alto valor para o negócio. Experiência sólida com o ecossistema .NET (C#, ASP.NET Core, Entity Framework Core) e desenvolvimento front-end (Angular, React).
 
 # Objetivo
-Busco ativamente impulsionar o desenvolvimento da minha carreira, adotando uma abordagem diligente para absorver rapidamente todas as responsabilidades inerentes ao meu cargo, visando a entrega eficaz de resultados tangíveis.
+Atuar como desenvolvedor sênior ou arquiteto de software, contribuindo com soluções escaláveis e de qualidade. Busco ambientes que valorizem boas práticas de engenharia (SOLID, DDD, Clean Code) e cultura ágil.
 
 # :mortar_board: Educação
 ### SISTEMAS DE INFORMAÇÃO
 #### FACULDADE SUL-AMERICANA - CONCLUSÃO 02/2012
 * No âmbito do meu projeto de conclusão de curso, concebemos um sistema de controle de acesso de indivíduos fundamentado na autenticação biométrica. Nesse contexto, optamos por empregar a linguagem de programação C# para o desenvolvimento e recorremos ao banco de dados SQL Server para fins de armazenamento e gestão dos dados. Essa experiência solidificou minha compreensão tanto das aplicações práticas da programação em C# quanto do manuseio eficiente de sistemas de banco de dados.
 
-# :man_juggling: Principais Habilidades 
-* Com mais de uma década de atuação no mercado, possuo uma vasta experiência como desenvolvedor, adquirindo proficiência em diversas práticas de programação. Minha jornada inclui uma sólida habilidade na análise detalhada e interpretação precisa de requisitos de software. Ao longo dos últimos 10 anos, tenho consistentemente aplicado meu conhecimento para criar soluções que atendam não apenas às expectativas, mas que também se alinhem às necessidades específicas dos projetos. Minha trajetória enriquecedora me permitiu não só aprimorar minhas habilidades técnicas, mas também a capacidade de comunicar efetivamente e colaborar em equipes multidisciplinares. Estou ansioso para continuar aplicando meu conhecimento e experiência para enfrentar novos desafios estimulantes.
+# :man_juggling: Principais Habilidades
 
-    <img src="https://img.shields.io/badge/%20-OOP-green"/>
-    <img src="https://img.shields.io/badge/%20-SOLID-blue"/>
-    <img src="https://img.shields.io/badge/-Clean%20Code-lightgrey"/>
-    <img src="https://img.shields.io/badge/%20-Design%20Patterns-orange"/>
-    <img src="https://img.shields.io/badge/%20-DDD-yellowgreen"/>
-    <img src="https://img.shields.io/badge/%20-CQRS-blue"/>
-    <img src="https://img.shields.io/badge/%20-TDD-lightgrey"/>
-    <img src="https://img.shields.io/badge/%20-BDD-brightgreen"/>
-* Conhecedor das metodologias ágeis e com experiência em sua aplicação. Minha trajetória inclui a colaboração em projetos desenvolvidos através de práticas ágeis, onde pude vivenciar em primeira mão os benefícios dessas abordagens na entrega eficiente de software. Como alguém que compreende profundamente os princípios por trás das metodologias ágeis, estou capacitado a adaptar esses conceitos aos requisitos específicos de cada projeto, promovendo uma execução mais fluida, transparente e voltada para resultados. Minha vivência abrangente nesse campo me proporcionou insights valiosos sobre como maximizar a produtividade da equipe, garantindo ao mesmo tempo um alto padrão de qualidade ao produto final. <img src="https://img.shields.io/badge/SCRUM-blue"/> <img src="https://img.shields.io/badge/KAMBAN-red"/>
-* Linguagens de programação:
+**Práticas de Engenharia de Software**
 
-    <img src="https://img.shields.io/badge/%20-C%23-green"/>
-    <img src="https://img.shields.io/badge/%20-Delphi-lightgrey"/>
-    <img src="https://img.shields.io/badge/%20-VB6-yellowgreen"/> 
-    <img src="https://img.shields.io/badge/%20-TypeScript-blue"/>
-    <img src="https://img.shields.io/badge/%20-Java%20Script-yellow"/>
-    <img src="https://img.shields.io/badge/%20-NodeJS-green"/>
-    <img src="https://img.shields.io/badge/%20-HTML5-red"/>
-    <img src="https://img.shields.io/badge/-CSS3-blue"/>
-* Banco de dados:
+![OOP](https://img.shields.io/badge/-OOP-green)
+![SOLID](https://img.shields.io/badge/-SOLID-blue)
+![Clean Code](https://img.shields.io/badge/-Clean%20Code-lightgrey)
+![Design Patterns](https://img.shields.io/badge/-Design%20Patterns-orange)
+![DDD](https://img.shields.io/badge/-DDD-yellowgreen)
+![CQRS](https://img.shields.io/badge/-CQRS-blue)
+![TDD](https://img.shields.io/badge/-TDD-lightgrey)
+![BDD](https://img.shields.io/badge/-BDD-brightgreen)
 
-    <img src="https://img.shields.io/badge/Microsof-SQL%20Server-yellow"/>
-    <img src="https://img.shields.io/badge/%20-Oracle-red"/>
-    <img src="https://img.shields.io/badge/%20-MySQL-blue" />
+**Metodologias Ágeis**
 
-* Frameworks
+Experiência prática com Scrum e Kanban em equipes multidisciplinares, com foco em entregas incrementais e melhoria contínua.
 
-    <img src="https://img.shields.io/badge/EntityFramework-Core-blue"/>
-    <img src="https://img.shields.io/badge/ASP.NET-MVC5-green"/>
-    <img src="https://img.shields.io/badge/ASP.NET-Core-blue"/>
-    <img src="https://img.shields.io/badge/Angular-7%2B-red"/>
-    <img src="https://img.shields.io/badge/React-JS-orange"/>
+![Scrum](https://img.shields.io/badge/SCRUM-blue)
+![Kanban](https://img.shields.io/badge/KANBAN-red)
 
-* Cloud
-    <img src="https://img.shields.io/badge/AWS-Lambda-orange"/> <img src="https://img.shields.io/badge/AWS-S3-orange"/>
-    <img src="https://img.shields.io/badge/Azure-DevOps-blue"/>    
+**Linguagens de Programação**
+
+![C#](https://img.shields.io/badge/C%23-green)
+![TypeScript](https://img.shields.io/badge/-TypeScript-blue)
+![JavaScript](https://img.shields.io/badge/-JavaScript-yellow)
+![Node.js](https://img.shields.io/badge/Node.js-green?style=flat&logo=node.js)
+![HTML5](https://img.shields.io/badge/-HTML5-red)
+![CSS3](https://img.shields.io/badge/-CSS3-blue)
+![Delphi](https://img.shields.io/badge/-Delphi-lightgrey)
+
+**Bancos de Dados**
+
+![SQL Server](https://img.shields.io/badge/Microsoft-SQL%20Server-yellow)
+![Oracle](https://img.shields.io/badge/-Oracle-red)
+![MySQL](https://img.shields.io/badge/-MySQL-blue)
+
+**Frameworks**
+
+![Entity Framework Core](https://img.shields.io/badge/Entity%20Framework-Core-blue)
+
+![ASP.NET Core](https://img.shields.io/badge/ASP%C2%B7NET%20Core-blue)
+
+![Angular](https://img.shields.io/static/v1?label=Angular&message=7%2B&color=red)
+
+![React](https://img.shields.io/static/v1?label=React&message=JS&color=orange)
+
+**Cloud**
+
+![AWS Lambda](https://img.shields.io/badge/AWS-Lambda-orange)
+![AWS S3](https://img.shields.io/badge/AWS-S3-orange)
+![Azure DevOps](https://img.shields.io/badge/Azure-DevOps-blue)    
 # :man_factory_worker: Experiências
 #### [GFT - Technologies](/empregadores/gft.md)
 * Período:   <img src="https://img.shields.io/badge/09-2021-green" /> até o momento
@@ -65,11 +72,10 @@ Busco ativamente impulsionar o desenvolvimento da minha carreira, adotando uma a
 #### [GLOBALTEC SA](/empregadores/globaltec.md)
 * Período: <img src="https://img.shields.io/badge/09-2010-green"/> a <img src="https://img.shields.io/badge/09-2021-red" />
 
-#### [VMSET SISTEMAS DE INFORMÁTICA LTDA ME](/empregadores/vm7.md)
+#### [VM7 Sistemas de Informática LTDA ME](/empregadores/vm7.md)
 * Período: <img src="https://img.shields.io/badge/05-2010-green"/> a <img src="https://img.shields.io/badge/08-2010-red"/>
 
-# Especializações
-* Engenharia de Software - Incompleto
+
 
 # :medal_sports: Certificações
 <details>
@@ -145,11 +151,11 @@ Busco ativamente impulsionar o desenvolvimento da minha carreira, adotando uma a
 * [Git e GitHub: Estratégias de ramificação, Conflitos e Pull Requests](/cursos/git_github_estrategias.md)
 * [Introdução ao Entity Framework Core](/cursos/introducao_entityframeworkcore.md)
 * [Dominando os Testes de Software](/cursos/dominando_teste_sowftware.md)
-* [ASP.NET Core Enterprise Application](/cursos/asp_net_core_enterprise_applications.md)
+* [ASP.NET Core Enterprise Applications](/cursos/asp_net_core_enterprise_applications.md)
 * [Dominando o Entity Framework Core](/cursos/dominando_entityframeworkcore.md)
 * [Fundamentos de Criptografia e Hashing](/cursos/fundamentos_criptografia_hashing.md)
 * [Fundamentos do IdentityServer4](/cursos/fundamentos_identityserver4.md)
-* [Construindo Aplicação Web com Angular (4, 5 e 6)](/cursos/construindo_aplicacao_web_angular.md)
+* [Construindo Aplicação Web com Angular](/cursos/construindo_aplicacao_web_angular.md)
 * [JavaScript Funcional e Reativo](/cursos/javascript_funcional_reativo.md)
 * [Azure Pipelines - CI/CD, Docker e Kubernetes no Azure DevOps](/cursos/azure_pipelines_devops.md)
 
